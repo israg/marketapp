@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20e5af5a-db30-4eae-be1a-e715414ffd26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNCTlO2ZKmvpPDjC6JLvpICG2o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/specs/login" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test/pageObjects" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20e5af5a-db30-4eae-be1a-e715414ffd26" name="Default Changelist" comment="" />
+      <created>1597945672643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597945672643</updated>
+      <workItem from="1597945674331" duration="6108000" />
+      <workItem from="1597953002062" duration="795000" />
+      <workItem from="1597953920229" duration="28992000" />
+      <workItem from="1598299383479" duration="986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598020037104">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="429" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.809@0.23.1440.809" timestamp="1598020037104" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1597949786108">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597949786108" />
+    <state x="421" y="207" width="598" height="518" key="find.popup" timestamp="1598297882671">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1597951200623" />
+    <state x="-1359" y="190" width="798" height="677" key="find.popup/0.23.1440.809/-1920.-50.1920.1057@-1920.-50.1920.1057" timestamp="1598279781436" />
+    <state x="421" y="207" width="598" height="518" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1598297882671" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597950313843">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597950313843" />
+  </component>
+</project>
