@@ -20,41 +20,6 @@ const BasketPage = Object.create(Page, {
         }
     },
 
-    getCountOfProduct : {
-      get: function () {
-          const countOfProduct = [];
-          const selector = $$(`android=${'new UiSelector().resourceId("com.getir.casestudy.dev:id/tvCount")'}`);
-          _.each(selector, function (item, index) {
-              countOfProduct.push(item);
-              console.log("=====!!!",item.text);
-          });
-          var total = 0;
-          for(var i in countOfProduct.length){
-              console.log("*-*-*-*-*-*-*-*-",countOfProduct[i].getText());
-
-              total += countOfProduct[i].getText();
-          }
-          console.log("Basket Count:",total);
-          return total;
-
-      }
-    },
-    getCountOfProductTotal : {
-      value: function () {
-         /* const countOfProductTotal = [];
-          console.log("*-*-*-*-*-*-*-*-",this.getCountOfProduct);
-          _.each(this.getCountOfProduct.getText(), function (item, index) {
-              countOfProductTotal.push(item);
-          });
-          var total = 0;
-          for(var i in countOfProductTotal.length){
-              total += countOfProductTotal[i];
-          }*/
-          console.log("Basket Count:",this.getCountOfProduct);
-          return this.getCountOfProduct;
-      }
-    },
-
     tabRemoveProduct:{
         value: function () {
             this.getRemoveProduct.click();
